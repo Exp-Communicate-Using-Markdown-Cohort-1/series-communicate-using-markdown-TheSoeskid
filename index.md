@@ -6,3 +6,7 @@ I wrote down a header.
 ```
 $ echo lol
 ```
+
+- [ ] create a list
+- [ ] type some words
+- [ ] finish list
